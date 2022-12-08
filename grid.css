@@ -1,0 +1,26 @@
+.col {
+    background-color: beige;
+}
+.row div{
+    margin: 0.25rem;
+}
+
+.col-sm{
+    background-color: lightblue;
+}
+
+.col-md{
+    background-color: lightgray;
+}
+
+.col-lg{
+    background-color: lightpink;
+}
+
+.col-xl{
+    background-color: lightgreen;
+}
+
+.col-xxl{
+    background-color: paleturquoise;
+}
